@@ -12,7 +12,7 @@ The following details are maintained using the app
 - Climatic condition of the area is obtained using temperature and pressure sensors. 
 
 Authors: 
-Shishira Skanda, 
-Priyanka Gopakumar 
+Priyanka Gopakumar,
+Shishira Skanda
 
 
