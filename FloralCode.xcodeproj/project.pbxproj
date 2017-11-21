@@ -15,6 +15,22 @@
 		F818590A1DA374D300995CFF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F81859081DA374D300995CFF /* LaunchScreen.storyboard */; };
 		F81859151DA374D300995CFF /* FloralCodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F81859141DA374D300995CFF /* FloralCodeTests.swift */; };
 		F81859201DA374D300995CFF /* FloralCodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F818591F1DA374D300995CFF /* FloralCodeUITests.swift */; };
+		F81859301DA3754B00995CFF /* Plant1.swift in Sources */ = {isa = PBXBuildFile; fileRef = F818592F1DA3754B00995CFF /* Plant1.swift */; };
+		F81859321DA37E4D00995CFF /* PlantCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F81859311DA37E4D00995CFF /* PlantCell.swift */; };
+		F81859341DA37EBC00995CFF /* PlantTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F81859331DA37EBC00995CFF /* PlantTableViewController.swift */; };
+		F81859361DA392A900995CFF /* AddPlantViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F81859351DA392A900995CFF /* AddPlantViewController.swift */; };
+		F81859381DA392C000995CFF /* PlantViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F81859371DA392C000995CFF /* PlantViewController.swift */; };
+		F818593E1DA4B60400995CFF /* PlantEditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F818593D1DA4B60400995CFF /* PlantEditViewController.swift */; };
+		F81859401DA4B65500995CFF /* WeatherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F818593F1DA4B65500995CFF /* WeatherViewController.swift */; };
+		F81859461DA4E83400995CFF /* Floral.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F81859441DA4E83400995CFF /* Floral.xcdatamodeld */; };
+		F81859491DA4E8F400995CFF /* Plant+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = F81859471DA4E8F400995CFF /* Plant+CoreDataProperties.swift */; };
+		F818594A1DA4E8F400995CFF /* Plant.swift in Sources */ = {isa = PBXBuildFile; fileRef = F81859481DA4E8F400995CFF /* Plant.swift */; };
+		F8804D221DAB44F500C99F20 /* WeatherViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8804D211DAB44F500C99F20 /* WeatherViewCell.swift */; };
+		F8804D241DAB45EB00C99F20 /* WeatherTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8804D231DAB45EB00C99F20 /* WeatherTableViewController.swift */; };
+		F8804D261DAB47FC00C99F20 /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8804D251DAB47FC00C99F20 /* Weather.swift */; };
+		F8804D281DAB545600C99F20 /* DataInputCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8804D271DAB545600C99F20 /* DataInputCell.swift */; };
+		F8804D2A1DACBAF300C99F20 /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8804D291DACBAF300C99F20 /* Reachability.swift */; };
+		F8941B631DAF35F0008FBA68 /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8941B621DAF35F0008FBA68 /* AssetsLibrary.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +65,22 @@
 		F818591B1DA374D300995CFF /* FloralCodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FloralCodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F818591F1DA374D300995CFF /* FloralCodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloralCodeUITests.swift; sourceTree = "<group>"; };
 		F81859211DA374D300995CFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F818592F1DA3754B00995CFF /* Plant1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Plant1.swift; sourceTree = "<group>"; };
+		F81859311DA37E4D00995CFF /* PlantCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlantCell.swift; sourceTree = "<group>"; };
+		F81859331DA37EBC00995CFF /* PlantTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlantTableViewController.swift; sourceTree = "<group>"; };
+		F81859351DA392A900995CFF /* AddPlantViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddPlantViewController.swift; sourceTree = "<group>"; };
+		F81859371DA392C000995CFF /* PlantViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlantViewController.swift; sourceTree = "<group>"; };
+		F818593D1DA4B60400995CFF /* PlantEditViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlantEditViewController.swift; sourceTree = "<group>"; };
+		F818593F1DA4B65500995CFF /* WeatherViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherViewController.swift; sourceTree = "<group>"; };
+		F81859451DA4E83400995CFF /* Floral.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Floral.xcdatamodel; sourceTree = "<group>"; };
+		F81859471DA4E8F400995CFF /* Plant+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Plant+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		F81859481DA4E8F400995CFF /* Plant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Plant.swift; sourceTree = "<group>"; };
+		F8804D211DAB44F500C99F20 /* WeatherViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherViewCell.swift; sourceTree = "<group>"; };
+		F8804D231DAB45EB00C99F20 /* WeatherTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherTableViewController.swift; sourceTree = "<group>"; };
+		F8804D251DAB47FC00C99F20 /* Weather.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
+		F8804D271DAB545600C99F20 /* DataInputCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataInputCell.swift; sourceTree = "<group>"; };
+		F8804D291DACBAF300C99F20 /* Reachability.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Reachability.swift; sourceTree = "<group>"; };
+		F8941B621DAF35F0008FBA68 /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +88,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8941B631DAF35F0008FBA68 /* AssetsLibrary.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -79,6 +112,10 @@
 		F81858F01DA374D300995CFF = {
 			isa = PBXGroup;
 			children = (
+				F8941B621DAF35F0008FBA68 /* AssetsLibrary.framework */,
+				F81859471DA4E8F400995CFF /* Plant+CoreDataProperties.swift */,
+				F81859481DA4E8F400995CFF /* Plant.swift */,
+				F81859441DA4E83400995CFF /* Floral.xcdatamodeld */,
 				F81858FB1DA374D300995CFF /* FloralCode */,
 				F81859131DA374D300995CFF /* FloralCodeTests */,
 				F818591E1DA374D300995CFF /* FloralCodeUITests */,
@@ -99,6 +136,7 @@
 		F81858FB1DA374D300995CFF /* FloralCode */ = {
 			isa = PBXGroup;
 			children = (
+				F81859431DA4D00C00995CFF /* Image */,
 				F81858FC1DA374D300995CFF /* AppDelegate.swift */,
 				F81858FE1DA374D300995CFF /* ViewController.swift */,
 				F81859001DA374D300995CFF /* Main.storyboard */,
@@ -106,6 +144,18 @@
 				F81859081DA374D300995CFF /* LaunchScreen.storyboard */,
 				F818590B1DA374D300995CFF /* Info.plist */,
 				F81859031DA374D300995CFF /* FloralCode.xcdatamodeld */,
+				F818592F1DA3754B00995CFF /* Plant1.swift */,
+				F81859311DA37E4D00995CFF /* PlantCell.swift */,
+				F81859331DA37EBC00995CFF /* PlantTableViewController.swift */,
+				F81859351DA392A900995CFF /* AddPlantViewController.swift */,
+				F81859371DA392C000995CFF /* PlantViewController.swift */,
+				F818593D1DA4B60400995CFF /* PlantEditViewController.swift */,
+				F818593F1DA4B65500995CFF /* WeatherViewController.swift */,
+				F8804D211DAB44F500C99F20 /* WeatherViewCell.swift */,
+				F8804D231DAB45EB00C99F20 /* WeatherTableViewController.swift */,
+				F8804D251DAB47FC00C99F20 /* Weather.swift */,
+				F8804D271DAB545600C99F20 /* DataInputCell.swift */,
+				F8804D291DACBAF300C99F20 /* Reachability.swift */,
 			);
 			path = FloralCode;
 			sourceTree = "<group>";
@@ -126,6 +176,13 @@
 				F81859211DA374D300995CFF /* Info.plist */,
 			);
 			path = FloralCodeUITests;
+			sourceTree = "<group>";
+		};
+		F81859431DA4D00C00995CFF /* Image */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -196,13 +253,16 @@
 				TargetAttributes = {
 					F81858F81DA374D300995CFF = {
 						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 0820;
 					};
 					F818590F1DA374D300995CFF = {
 						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 0820;
 						TestTargetID = F81858F81DA374D300995CFF;
 					};
 					F818591A1DA374D300995CFF = {
 						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 0820;
 						TestTargetID = F81858F81DA374D300995CFF;
 					};
 				};
@@ -260,8 +320,23 @@
 			buildActionMask = 2147483647;
 			files = (
 				F81859051DA374D300995CFF /* FloralCode.xcdatamodeld in Sources */,
+				F8804D261DAB47FC00C99F20 /* Weather.swift in Sources */,
+				F8804D2A1DACBAF300C99F20 /* Reachability.swift in Sources */,
+				F81859401DA4B65500995CFF /* WeatherViewController.swift in Sources */,
+				F8804D281DAB545600C99F20 /* DataInputCell.swift in Sources */,
+				F8804D221DAB44F500C99F20 /* WeatherViewCell.swift in Sources */,
+				F8804D241DAB45EB00C99F20 /* WeatherTableViewController.swift in Sources */,
+				F81859491DA4E8F400995CFF /* Plant+CoreDataProperties.swift in Sources */,
+				F81859321DA37E4D00995CFF /* PlantCell.swift in Sources */,
+				F81859381DA392C000995CFF /* PlantViewController.swift in Sources */,
+				F81859361DA392A900995CFF /* AddPlantViewController.swift in Sources */,
+				F81859301DA3754B00995CFF /* Plant1.swift in Sources */,
+				F818593E1DA4B60400995CFF /* PlantEditViewController.swift in Sources */,
 				F81858FF1DA374D300995CFF /* ViewController.swift in Sources */,
 				F81858FD1DA374D300995CFF /* AppDelegate.swift in Sources */,
+				F818594A1DA4E8F400995CFF /* Plant.swift in Sources */,
+				F81859341DA37EBC00995CFF /* PlantTableViewController.swift in Sources */,
+				F81859461DA4E83400995CFF /* Floral.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -407,6 +482,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = pgop6.FloralCode;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -418,6 +494,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = pgop6.FloralCode;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -429,6 +506,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = pgop6.FloralCodeTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FloralCode.app/FloralCode";
 			};
 			name = Debug;
@@ -441,6 +519,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = pgop6.FloralCodeTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FloralCode.app/FloralCode";
 			};
 			name = Release;
@@ -452,6 +531,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = pgop6.FloralCodeUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = FloralCode;
 			};
 			name = Debug;
@@ -463,6 +543,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = pgop6.FloralCodeUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = FloralCode;
 			};
 			name = Release;
@@ -486,6 +567,7 @@
 				F81859261DA374D300995CFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F81859271DA374D300995CFF /* Build configuration list for PBXNativeTarget "FloralCodeTests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +576,7 @@
 				F81859291DA374D300995CFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F818592A1DA374D300995CFF /* Build configuration list for PBXNativeTarget "FloralCodeUITests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +585,7 @@
 				F818592C1DA374D300995CFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
@@ -513,6 +597,16 @@
 			);
 			currentVersion = F81859041DA374D300995CFF /* FloralCode.xcdatamodel */;
 			path = FloralCode.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+		F81859441DA4E83400995CFF /* Floral.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				F81859451DA4E83400995CFF /* Floral.xcdatamodel */,
+			);
+			currentVersion = F81859451DA4E83400995CFF /* Floral.xcdatamodel */;
+			path = Floral.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};

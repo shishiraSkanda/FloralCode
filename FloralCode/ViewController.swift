@@ -2,8 +2,7 @@
 //  ViewController.swift
 //  FloralCode
 //
-//  Created by Priyanka Gopakumar on 4/10/2016.
-//  Copyright © 2016 Priyanka Gopakumar. All rights reserved.
+
 //
 
 import UIKit

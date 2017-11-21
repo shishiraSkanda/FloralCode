@@ -2,9 +2,6 @@
 //  FloralCodeTests.swift
 //  FloralCodeTests
 //
-//  Created by Priyanka Gopakumar on 4/10/2016.
-//  Copyright © 2016 Priyanka Gopakumar. All rights reserved.
-//
 
 import XCTest
 @testable import FloralCode
@@ -28,7 +25,7 @@ class FloralCodeTests: XCTestCase {
     
     func testPerformanceExample() {
         // This is an example of a performance test case.
-        self.measureBlock {
+        self.measure {
             // Put the code you want to measure the time of here.
         }
     }
